@@ -1,0 +1,23 @@
+[
+    {
+      "app_name": "PayPal",
+      "package_name": "com.paypal.android.p2pmobile",
+      "signature_sha256": "a94522760879924515d927c449a57c53753142738565f1345a331825260b52c1"
+    },
+    {
+      "app_name": "Instagram",
+      "package_name": "com.instagram.android",
+      "signature_sha256": "e8a33753b7572b4b6357e04f75b252be3290680a6713f36b3599607f2b55a50a"
+    },
+    {
+      "app_name": "Facebook",
+      "package_name": "com.facebook.katana",
+      "signature_sha256": "c899ac553c7c215901520268f83a215159b20e01780651584a20b127a6858089"
+    },
+    {
+      "app_name": "WhatsApp",
+      "package_name": "com.whatsapp",
+      "signature_sha256": "38a0f7d505fe18fec64fbf3437b8a538d2136279d034f364a027ac2c22a7f53c"
+    }
+  ]
+  
