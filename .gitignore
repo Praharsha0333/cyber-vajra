@@ -1,0 +1,23 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+
+# Virtual Environments
+venv/
+.venv/
+myenv/
+
+# Models & datasets (use Git LFS instead)
+*.joblib
+*.pkl
+*.h5
+*.csv
+
+# Logs
+*.log
