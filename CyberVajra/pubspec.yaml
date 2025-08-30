@@ -1,0 +1,65 @@
+name: fraud_detector_app
+description: "A new Flutter project."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.8.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.5.0
+  file_picker: ^10.3.2
+  google_fonts: ^6.3.1
+  connectivity_plus: ^6.1.5
+  device_info_plus: ^11.5.0
+  intl: ^0.20.2
+  percent_indicator: ^4.2.5
+  system_info2: ^4.0.0
+  fl_chart: ^1.0.0
+  syncfusion_flutter_gauges: ^30.2.7
+  cupertino_icons: ^1.0.8
+  flutter_svg: ^2.2.0
+  syncfusion_flutter_treemap: ^30.2.7
+  syncfusion_flutter_charts: ^30.2.7
+  url_launcher: ^6.3.2
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+   # Correctly placed under dev_dependencies
+  flutter_lints: ^5.0.0
+  flutter_launcher_icons: "^0.14.4"
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/logo.png"
+  remove_alpha_ios: true
+  min_sdk_android: 21
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/logo.png
+    - assets/logobg.png
+    - assets/members/member2.jpeg
+    - assets/members/member1.jpeg
+    - assets/members/member4.jpeg
+    - assets/members/member3.jpeg
+    - assets/world_map.svg
+    - assets/world_map.png
+    - assets/world_map.jpg
+    - assets/world_map2.svg
+    - assets/reports/financial_fraud.jpg
+    - assets/reports/women_children.jpeg
+    - assets/reports/other_cyber.jpeg
+    - assets/learn/manual.png
+    - assets/learn/safety.png
+    - assets/learn/awareness.png
+    - assets/learn/certin.png
+# --- FIX: MOVED TO ROOT LEVEL ---
+# This section should have NO indentation.
+
