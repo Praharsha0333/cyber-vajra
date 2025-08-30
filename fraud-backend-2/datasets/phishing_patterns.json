@@ -1,0 +1,87 @@
+{
+    "patterns": [
+        {
+            "type": "bank_impersonation",
+            "patterns": [
+                "sbi-online",
+                "hdfc-login",
+                "icici-secure",
+                "axis-verify",
+                "pnb-account",
+                "kotak-net",
+                "bank-kyc",
+                "account-block",
+                "card-block"
+            ],
+            "risk_score": 0.9
+        },
+        {
+            "type": "upi_scam",
+            "patterns": [
+                "upi-verify",
+                "phonepe-kyc",
+                "paytm-kyc",
+                "gpay-reward",
+                "bhim-update",
+                "upi-expire",
+                "upi-block"
+            ],
+            "risk_score": 0.85
+        },
+        {
+            "type": "government_impersonation",
+            "patterns": [
+                "aadhaar-verify",
+                "pan-link",
+                "income-tax-refund",
+                "gst-return",
+                "govt-scheme",
+                "sarkari-yojana"
+            ],
+            "risk_score": 0.95
+        },
+        {
+            "type": "common_scams",
+            "patterns": [
+                "lottery-winner",
+                "prize-won",
+                "job-offer",
+                "loan-approved",
+                "credit-card-free",
+                "insurance-claim"
+            ],
+            "risk_score": 0.8
+        },
+        {
+            "type": "covid_scams",
+            "patterns": [
+                "covid-relief",
+                "vaccine-register",
+                "oxygen-cylinder",
+                "covid-help",
+                "relief-fund"
+            ],
+            "risk_score": 0.9
+        }
+    ],
+    "suspicious_tlds": [
+        ".tk",
+        ".ml",
+        ".ga",
+        ".cf",
+        ".gq",
+        ".xyz"
+    ],
+    "legitimate_domains": [
+        "sbi.co.in",
+        "hdfcbank.com",
+        "icicibank.com",
+        "axisbank.com",
+        "pnbindia.in",
+        "rbi.org.in",
+        "uidai.gov.in",
+        "incometax.gov.in",
+        "gst.gov.in"
+    ],
+    "last_updated": "2025-08-27"
+}

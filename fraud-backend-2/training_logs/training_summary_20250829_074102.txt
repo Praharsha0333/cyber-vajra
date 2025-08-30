@@ -1,0 +1,45 @@
+URL FRAUD DETECTION MODEL TRAINING REPORT
+==================================================
+
+Timestamp: 20250829_074102
+Total samples: 507185
+Legitimate samples: 392890
+Phishing samples: 114295
+
+CONTENT MODEL RESULTS
+------------------------------
+
+random_forest:
+  accuracy: 0.7765
+  precision: 0.9947
+  recall: 0.0082
+  f1: 0.0162
+  cv_mean: 0.0148
+  cv_std: 0.0018
+
+logistic:
+  accuracy: 0.7768
+  precision: 0.9912
+  recall: 0.0098
+  f1: 0.0194
+  cv_mean: 0.0214
+  cv_std: 0.0012
+
+DOMAIN MODEL RESULTS
+------------------------------
+
+random_forest:
+  accuracy: 0.8627
+  precision: 0.9528
+  recall: 0.4109
+  f1: 0.5742
+  cv_mean: 0.5754
+  cv_std: 0.0031
+
+gradient_boost:
+  accuracy: 0.8637
+  precision: 0.9017
+  recall: 0.4434
+  f1: 0.5945
+  cv_mean: 0.5940
+  cv_std: 0.0019

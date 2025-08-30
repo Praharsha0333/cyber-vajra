@@ -1,0 +1,73 @@
+2025-08-27 21:03:42,446 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.153.208:5001
+2025-08-27 21:03:42,447 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-27 21:04:29,431 - routes.url_routes - INFO - Analyzing URL: https://sbi.co.in/web/personal-banking
+2025-08-27 21:04:33,587 - werkzeug - INFO - 127.0.0.1 - - [27/Aug/2025 21:04:33] "POST /api/v1/analyze_url HTTP/1.1" 200 -
+2025-08-27 21:04:37,334 - routes.url_routes - INFO - Analyzing URL: https://sbi.co.in/web/personal-banking
+2025-08-27 21:04:37,334 - werkzeug - INFO - 127.0.0.1 - - [27/Aug/2025 21:04:37] "POST /api/v1/analyze_url HTTP/1.1" 200 -
+2025-08-27 21:04:42,075 - routes.url_routes - INFO - Analyzing URL: https://www.bankofamerica.com/
+2025-08-27 21:04:45,203 - werkzeug - INFO - 127.0.0.1 - - [27/Aug/2025 21:04:45] "POST /api/v1/analyze_url HTTP/1.1" 200 -
+2025-08-27 21:12:26,859 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2025-08-27 21:12:26,860 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-27 21:13:14,244 - routes.url_routes - INFO - Analyzing URL: https://www.bankofamerica.com/
+2025-08-27 21:13:16,016 - werkzeug - INFO - 127.0.0.1 - - [27/Aug/2025 21:13:16] "POST /api/v1/analyze_url HTTP/1.1" 200 -
+2025-08-27 21:20:07,701 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2025-08-27 21:20:07,701 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-27 21:22:44,411 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2025-08-27 21:22:44,411 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-27 21:24:40,802 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2025-08-27 21:24:40,802 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-27 21:25:01,444 - routes.url_routes - INFO - Analyzing URL: https://www.bankofamerica.com/
+2025-08-27 21:25:03,126 - werkzeug - INFO - 127.0.0.1 - - [27/Aug/2025 21:25:03] "POST /api/v1/analyze_url HTTP/1.1" 200 -
+2025-08-27 21:25:28,947 - routes.url_routes - INFO - Analyzing URL: https://sbi.co.in/web/personal-banking
+2025-08-27 21:25:31,472 - werkzeug - INFO - 127.0.0.1 - - [27/Aug/2025 21:25:31] "POST /api/v1/analyze_url HTTP/1.1" 200 -
+2025-08-27 21:26:26,751 - routes.url_routes - INFO - Analyzing URL: https://www.hdfcbank.com/
+2025-08-27 21:26:29,103 - werkzeug - INFO - 127.0.0.1 - - [27/Aug/2025 21:26:29] "POST /api/v1/analyze_url HTTP/1.1" 200 -
+2025-08-27 21:27:29,973 - routes.url_routes - INFO - Analyzing URL: https://www.nic.gov.in/
+2025-08-27 21:27:30,795 - werkzeug - INFO - 127.0.0.1 - - [27/Aug/2025 21:27:30] "POST /api/v1/analyze_url HTTP/1.1" 200 -
+2025-08-27 21:28:00,332 - routes.url_routes - INFO - Analyzing URL: https://www.idfcfirstbank.com/
+2025-08-27 21:28:04,768 - werkzeug - INFO - 127.0.0.1 - - [27/Aug/2025 21:28:04] "POST /api/v1/analyze_url HTTP/1.1" 200 -
+2025-08-27 21:28:27,745 - routes.url_routes - INFO - Analyzing URL: https://cris.org.in/
+2025-08-27 21:28:28,550 - werkzeug - INFO - 127.0.0.1 - - [27/Aug/2025 21:28:28] "POST /api/v1/analyze_url HTTP/1.1" 200 -
+2025-08-27 21:29:34,275 - routes.url_routes - INFO - Analyzing URL: https://login.nfsu.ac.in/
+2025-08-27 21:29:35,957 - werkzeug - INFO - 127.0.0.1 - - [27/Aug/2025 21:29:35] "POST /api/v1/analyze_url HTTP/1.1" 200 -
+2025-08-27 21:30:16,153 - routes.url_routes - INFO - Analyzing URL: https://nfsu.ac.in/
+2025-08-27 21:30:20,650 - werkzeug - INFO - 127.0.0.1 - - [27/Aug/2025 21:30:20] "POST /api/v1/analyze_url HTTP/1.1" 200 -
+2025-08-27 21:30:58,221 - routes.url_routes - INFO - Analyzing URL: https://www.netpnb.com/
+2025-08-27 21:31:04,078 - werkzeug - INFO - 127.0.0.1 - - [27/Aug/2025 21:31:04] "POST /api/v1/analyze_url HTTP/1.1" 200 -
+2025-08-27 21:31:25,351 - routes.url_routes - INFO - Analyzing URL: https://www.pmindia.gov.in/en/
+2025-08-27 21:31:25,907 - werkzeug - INFO - 127.0.0.1 - - [27/Aug/2025 21:31:25] "POST /api/v1/analyze_url HTTP/1.1" 200 -
+2025-08-27 21:35:26,850 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2025-08-27 21:35:26,850 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-27 21:36:29,582 - routes.url_routes - INFO - Analyzing URL: https://www.paypal.com
+2025-08-27 21:36:32,411 - werkzeug - INFO - 127.0.0.1 - - [27/Aug/2025 21:36:32] "POST /api/v1/analyze_url HTTP/1.1" 200 -
+2025-08-27 21:36:54,636 - routes.url_routes - INFO - Analyzing URL: https://paypa1.com
+2025-08-27 21:37:15,255 - services.enhanced_url_checker - ERROR - Error analyzing URL https://paypa1.com: 
+2025-08-27 21:37:15,257 - routes.url_routes - ERROR - Error in analyze_url_endpoint: 
+2025-08-27 21:37:15,258 - werkzeug - INFO - 127.0.0.1 - - [27/Aug/2025 21:37:15] "[35m[1mPOST /api/v1/analyze_url HTTP/1.1[0m" 500 -
+2025-08-27 21:37:31,696 - routes.url_routes - INFO - Analyzing URL: https://paypa1.com
+2025-08-27 21:37:51,707 - services.enhanced_url_checker - ERROR - Error analyzing URL https://paypa1.com: 
+2025-08-27 21:37:51,708 - routes.url_routes - ERROR - Error in analyze_url_endpoint: 
+2025-08-27 21:37:51,710 - werkzeug - INFO - 127.0.0.1 - - [27/Aug/2025 21:37:51] "[35m[1mPOST /api/v1/analyze_url HTTP/1.1[0m" 500 -
+2025-08-27 21:38:11,467 - routes.url_routes - INFO - Analyzing URL: https://paypal-secure-login.com
+2025-08-27 21:38:32,040 - services.enhanced_url_checker - ERROR - Error analyzing URL https://paypal-secure-login.com: 
+2025-08-27 21:38:32,040 - routes.url_routes - ERROR - Error in analyze_url_endpoint: 
+2025-08-27 21:38:32,040 - werkzeug - INFO - 127.0.0.1 - - [27/Aug/2025 21:38:32] "[35m[1mPOST /api/v1/analyze_url HTTP/1.1[0m" 500 -
+2025-08-27 21:38:56,045 - routes.url_routes - INFO - Analyzing URL: https://www.amazon.com
+2025-08-27 21:38:57,876 - werkzeug - INFO - 127.0.0.1 - - [27/Aug/2025 21:38:57] "POST /api/v1/analyze_url HTTP/1.1" 200 -
+2025-08-27 21:39:20,004 - routes.url_routes - INFO - Analyzing URL: https://netflix-billing.org
+2025-08-27 21:39:22,230 - werkzeug - INFO - 127.0.0.1 - - [27/Aug/2025 21:39:22] "POST /api/v1/analyze_url HTTP/1.1" 200 -
+2025-08-27 21:41:23,962 - routes.url_routes - INFO - Analyzing URL: http://microsft-support-msp.com/
+2025-08-27 21:41:25,617 - werkzeug - INFO - 127.0.0.1 - - [27/Aug/2025 21:41:25] "POST /api/v1/analyze_url HTTP/1.1" 200 -
+2025-08-28 12:02:38,706 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2025-08-28 12:02:38,706 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-28 12:02:50,737 - routes.url_routes - INFO - Analyzing URL: http://microsft-support-msp.com/
+2025-08-28 12:02:51,526 - werkzeug - INFO - 127.0.0.1 - - [28/Aug/2025 12:02:51] "POST /api/v1/analyze_url HTTP/1.1" 200 -

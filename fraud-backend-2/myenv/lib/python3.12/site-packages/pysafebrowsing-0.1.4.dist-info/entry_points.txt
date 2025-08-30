@@ -1,0 +1,2 @@
+[console_scripts]
+safebrowsing = pysafebrowsing.cli:main

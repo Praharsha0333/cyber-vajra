@@ -1,0 +1,2194 @@
+{
+  "https://example.com": {
+    "result": {
+      "visual_similarity_score": 0.0,
+      "screenshot_path": "visual_data/screenshots/c984d06aafbecf6bc55569f964148ea3_1756387427.png",
+      "phash": "90b16dcfce663431",
+      "matched_template": null,
+      "template_matches": [],
+      "visual_elements": {
+        "has_login_form": false,
+        "has_password_field": false,
+        "form_count": 0,
+        "suspicious_keywords": []
+      },
+      "brand_analysis": {
+        "is_impersonation": false,
+        "suspected_brand": null,
+        "confidence": 0.5
+      },
+      "dominant_colors": [
+        {
+          "color": [
+            239,
+            239,
+            241
+          ],
+          "frequency": 0.8202822579706569
+        },
+        {
+          "color": [
+            252,
+            252,
+            254
+          ],
+          "frequency": 0.17067255654586633
+        },
+        {
+          "color": [
+            2,
+            2,
+            2
+          ],
+          "frequency": 0.006346498078476375
+        },
+        {
+          "color": [
+            77,
+            81,
+            102
+          ],
+          "frequency": 0.0014661655885495348
+        },
+        {
+          "color": [
+            161,
+            162,
+            168
+          ],
+          "frequency": 0.0012325218164508493
+        }
+      ],
+      "analysis_success": true,
+      "error_message": null
+    },
+    "timestamp": "2025-08-28T18:53:56.162827"
+  },
+  "https://paypal.com": {
+    "result": {
+      "visual_similarity_score": 0.0,
+      "screenshot_path": "visual_data/screenshots/f5092e1a2da09f8df4e515e38e9de23d_1756388633.png",
+      "phash": "f294dcd23570b436",
+      "matched_template": null,
+      "template_matches": [],
+      "visual_elements": {
+        "has_login_form": false,
+        "has_password_field": false,
+        "form_count": 0,
+        "suspicious_keywords": []
+      },
+      "brand_analysis": {
+        "is_impersonation": false,
+        "suspected_brand": null,
+        "confidence": 0.5
+      },
+      "dominant_colors": [
+        {
+          "color": [
+            244,
+            244,
+            247
+          ],
+          "frequency": 0.9258246490397037
+        },
+        {
+          "color": [
+            7,
+            23,
+            77
+          ],
+          "frequency": 0.02972571443202741
+        },
+        {
+          "color": [
+            48,
+            110,
+            215
+          ],
+          "frequency": 0.01752270098019818
+        },
+        {
+          "color": [
+            20,
+            49,
+            128
+          ],
+          "frequency": 0.015653841767010315
+        },
+        {
+          "color": [
+            130,
+            132,
+            143
+          ],
+          "frequency": 0.011273093781060364
+        }
+      ],
+      "analysis_success": true,
+      "error_message": null
+    },
+    "timestamp": "2025-08-28T19:14:02.611008"
+  },
+  "http://www.example-phishing.com/": {
+    "result": {
+      "visual_similarity_score": 0.0,
+      "screenshot_path": null,
+      "phash": null,
+      "matched_template": null,
+      "template_matches": [],
+      "visual_elements": {},
+      "brand_analysis": {},
+      "dominant_colors": [],
+      "analysis_success": false,
+      "error_message": "Failed to take screenshot"
+    },
+    "timestamp": "2025-08-28T19:15:35.908693"
+  },
+  "http://www.fakeshop.com/": {
+    "result": {
+      "visual_similarity_score": 0.0,
+      "screenshot_path": null,
+      "phash": null,
+      "matched_template": null,
+      "template_matches": [],
+      "visual_elements": {},
+      "brand_analysis": {},
+      "dominant_colors": [],
+      "analysis_success": false,
+      "error_message": "Failed to take screenshot"
+    },
+    "timestamp": "2025-08-28T19:18:26.514833"
+  },
+  "https://secure.eicar.org/download/eicar.com": {
+    "result": {
+      "visual_similarity_score": 0.2993356428084272,
+      "screenshot_path": "visual_data/screenshots/97131e071cd763a03830cee2ad450504_1756390203.png",
+      "phash": "b3c6cc66cc992699",
+      "matched_template": null,
+      "template_matches": [],
+      "visual_elements": {
+        "has_login_form": false,
+        "has_password_field": false,
+        "form_count": 0,
+        "suspicious_keywords": []
+      },
+      "brand_analysis": {
+        "is_impersonation": false,
+        "suspected_brand": null,
+        "confidence": 0.5
+      },
+      "dominant_colors": [
+        {
+          "color": [
+            254,
+            254,
+            254
+          ],
+          "frequency": 0.9867867609233555
+        },
+        {
+          "color": [
+            36,
+            36,
+            36
+          ],
+          "frequency": 0.009522365790129118
+        },
+        {
+          "color": [
+            158,
+            163,
+            174
+          ],
+          "frequency": 0.0015467625061975248
+        },
+        {
+          "color": [
+            73,
+            122,
+            207
+          ],
+          "frequency": 0.0014597643893139545
+        },
+        {
+          "color": [
+            204,
+            45,
+            32
+          ],
+          "frequency": 0.000684346391003871
+        }
+      ],
+      "analysis_success": true,
+      "error_message": null
+    },
+    "timestamp": "2025-08-28T19:40:10.530904"
+  },
+  "https://juice-shop.herokuapp.com": {
+    "result": {
+      "visual_similarity_score": 0.21230940720239658,
+      "screenshot_path": "visual_data/screenshots/ccfd668df9ee4555d00b3ba4a9b7f214_1756390341.png",
+      "phash": "945b2f2fd0b1d0b2",
+      "matched_template": null,
+      "template_matches": [],
+      "visual_elements": {
+        "has_login_form": false,
+        "has_password_field": false,
+        "form_count": 0,
+        "suspicious_keywords": []
+      },
+      "brand_analysis": {
+        "is_impersonation": true,
+        "suspected_brand": "apple",
+        "confidence": 0.3538490120039943,
+        "all_matches": {
+          "apple": {
+            "score": 0.3538490120039943,
+            "color_matches": 2,
+            "brand_in_url": false,
+            "legitimate_domain": false
+          }
+        }
+      },
+      "dominant_colors": [
+        {
+          "color": [
+            36,
+            36,
+            37
+          ],
+          "frequency": 0.49396686972046544
+        },
+        {
+          "color": [
+            65,
+            69,
+            70
+          ],
+          "frequency": 0.2799980563631412
+        },
+        {
+          "color": [
+            168,
+            166,
+            160
+          ],
+          "frequency": 0.11809514277002005
+        },
+        {
+          "color": [
+            97,
+            114,
+            113
+          ],
+          "frequency": 0.08907676085352427
+        },
+        {
+          "color": [
+            250,
+            250,
+            250
+          ],
+          "frequency": 0.018863170292849046
+        }
+      ],
+      "analysis_success": true,
+      "error_message": null
+    },
+    "timestamp": "2025-08-28T19:42:33.691117"
+  },
+  "https://openai.com": {
+    "result": {
+      "visual_similarity_score": 0.0,
+      "screenshot_path": "visual_data/screenshots/f8a53887b05b8b4c6e8f681f26f3a9cd_1756402870.png",
+      "phash": "c2a55e815aa17ea7",
+      "matched_template": null,
+      "template_matches": [],
+      "visual_elements": {
+        "has_login_form": false,
+        "has_password_field": false,
+        "form_count": 2,
+        "suspicious_keywords": []
+      },
+      "brand_analysis": {
+        "is_impersonation": false,
+        "suspected_brand": null,
+        "confidence": 0.5
+      },
+      "dominant_colors": [
+        {
+          "color": [
+            254,
+            254,
+            254
+          ],
+          "frequency": 0.9371344042345678
+        },
+        {
+          "color": [
+            206,
+            215,
+            237
+          ],
+          "frequency": 0.040352869017497385
+        },
+        {
+          "color": [
+            70,
+            139,
+            244
+          ],
+          "frequency": 0.011445926160421036
+        },
+        {
+          "color": [
+            172,
+            142,
+            132
+          ],
+          "frequency": 0.0064966352969108975
+        },
+        {
+          "color": [
+            6,
+            6,
+            6
+          ],
+          "frequency": 0.004570165290602807
+        }
+      ],
+      "analysis_success": true,
+      "error_message": null
+    },
+    "timestamp": "2025-08-28T23:11:17.173152"
+  },
+  "http://suspicious-paypal-login.tk/verify": {
+    "result": {
+      "visual_similarity_score": 0.0,
+      "screenshot_path": null,
+      "phash": null,
+      "matched_template": null,
+      "template_matches": [],
+      "visual_elements": {},
+      "brand_analysis": {},
+      "dominant_colors": [],
+      "analysis_success": false,
+      "error_message": "Failed to take screenshot"
+    },
+    "timestamp": "2025-08-28T23:12:24.846384"
+  },
+  "http://bit.ly/suspicious-link": {
+    "result": {
+      "visual_similarity_score": 0.625,
+      "screenshot_path": "visual_data/screenshots/d3f069359ab894731538a69e5a6fa74b_1756404759.png",
+      "phash": "edd29632d0b096cd",
+      "matched_template": null,
+      "template_matches": [],
+      "visual_elements": {
+        "has_login_form": false,
+        "has_password_field": false,
+        "form_count": 1,
+        "suspicious_keywords": [
+          "confirm",
+          "locked"
+        ]
+      },
+      "brand_analysis": {
+        "is_impersonation": false,
+        "suspected_brand": null,
+        "confidence": 0.5
+      },
+      "dominant_colors": [
+        {
+          "color": [
+            252,
+            252,
+            252
+          ],
+          "frequency": 0.7146947675433594
+        },
+        {
+          "color": [
+            199,
+            200,
+            202
+          ],
+          "frequency": 0.11411883419031812
+        },
+        {
+          "color": [
+            28,
+            23,
+            25
+          ],
+          "frequency": 0.07099162723139986
+        },
+        {
+          "color": [
+            117,
+            80,
+            64
+          ],
+          "frequency": 0.05916308393485208
+        },
+        {
+          "color": [
+            105,
+            137,
+            171
+          ],
+          "frequency": 0.04103168710007053
+        }
+      ],
+      "analysis_success": true,
+      "error_message": null
+    },
+    "timestamp": "2025-08-28T23:42:49.609559"
+  },
+  "https://paypal-verify-account.tk": {
+    "result": {
+      "visual_similarity_score": 0.0,
+      "screenshot_path": null,
+      "phash": null,
+      "matched_template": null,
+      "template_matches": [],
+      "visual_elements": {},
+      "brand_analysis": {
+        "is_impersonation": false,
+        "suspected_brand": null,
+        "confidence": 0.0,
+        "all_matches": {}
+      },
+      "dominant_colors": [],
+      "analysis_success": false,
+      "error_message": "Failed to take screenshot"
+    },
+    "timestamp": "2025-08-28T23:43:02.671412"
+  },
+  "http://amazon-security.ml": {
+    "result": {
+      "visual_similarity_score": 0.0,
+      "screenshot_path": null,
+      "phash": null,
+      "matched_template": null,
+      "template_matches": [],
+      "visual_elements": {},
+      "brand_analysis": {
+        "is_impersonation": false,
+        "suspected_brand": null,
+        "confidence": 0.0,
+        "all_matches": {}
+      },
+      "dominant_colors": [],
+      "analysis_success": false,
+      "error_message": "Failed to take screenshot"
+    },
+    "timestamp": "2025-08-28T23:43:14.134249"
+  },
+  "https://anthropic.com": {
+    "result": {
+      "visual_similarity_score": 0.59375,
+      "screenshot_path": "visual_data/screenshots/1b2961d5f6b3b4101d610bd119e4aef3_1756405863.png",
+      "phash": "cbb4c459179dd04b",
+      "matched_template": null,
+      "template_matches": [],
+      "visual_elements": {
+        "has_login_form": false,
+        "has_password_field": false,
+        "form_count": 1,
+        "suspicious_keywords": []
+      },
+      "brand_analysis": {
+        "is_impersonation": false,
+        "suspected_brand": null,
+        "confidence": 0.5
+      },
+      "dominant_colors": [
+        {
+          "color": [
+            239,
+            237,
+            230
+          ],
+          "frequency": 0.6262095356919231
+        },
+        {
+          "color": [
+            20,
+            20,
+            19
+          ],
+          "frequency": 0.18177310891116766
+        },
+        {
+          "color": [
+            254,
+            254,
+            254
+          ],
+          "frequency": 0.16481400442730215
+        },
+        {
+          "color": [
+            190,
+            130,
+            107
+          ],
+          "frequency": 0.021875225496791252
+        },
+        {
+          "color": [
+            90,
+            89,
+            87
+          ],
+          "frequency": 0.005328125472815853
+        }
+      ],
+      "analysis_success": true,
+      "error_message": null
+    },
+    "timestamp": "2025-08-29T00:01:10.286908"
+  },
+  "https://phishtank.org/": {
+    "result": {
+      "visual_similarity_score": 0.5625,
+      "screenshot_path": "visual_data/screenshots/86d7636f7bbf311f4054ee4a6b1d78a2_1756406981.png",
+      "phash": "9e7c2d74309d9a83",
+      "matched_template": null,
+      "template_matches": [],
+      "visual_elements": {
+        "has_login_form": true,
+        "has_password_field": true,
+        "form_count": 2,
+        "suspicious_keywords": [
+          "verify",
+          "locked"
+        ]
+      },
+      "brand_analysis": {
+        "is_impersonation": false,
+        "suspected_brand": null,
+        "confidence": 0.5
+      },
+      "dominant_colors": [
+        {
+          "color": [
+            252,
+            252,
+            249
+          ],
+          "frequency": 0.7229072151990075
+        },
+        {
+          "color": [
+            59,
+            118,
+            169
+          ],
+          "frequency": 0.1283873982500285
+        },
+        {
+          "color": [
+            33,
+            52,
+            67
+          ],
+          "frequency": 0.10295194212384808
+        },
+        {
+          "color": [
+            209,
+            212,
+            214
+          ],
+          "frequency": 0.02917666611577558
+        },
+        {
+          "color": [
+            243,
+            190,
+            67
+          ],
+          "frequency": 0.016576778311340364
+        }
+      ],
+      "analysis_success": true,
+      "error_message": null
+    },
+    "timestamp": "2025-08-29T00:19:54.102802"
+  },
+  "https://openphish.com/": {
+    "result": {
+      "visual_similarity_score": 0.546875,
+      "screenshot_path": "visual_data/screenshots/e04ed8dbccabe20f0809e83b72844ac3_1756407020.png",
+      "phash": "ec96936c19936c39",
+      "matched_template": null,
+      "template_matches": [],
+      "visual_elements": {
+        "has_login_form": false,
+        "has_password_field": false,
+        "form_count": 0,
+        "suspicious_keywords": []
+      },
+      "brand_analysis": {
+        "is_impersonation": false,
+        "suspected_brand": null,
+        "confidence": 0.5
+      },
+      "dominant_colors": [
+        {
+          "color": [
+            254,
+            254,
+            254
+          ],
+          "frequency": 0.5576916810014735
+        },
+        {
+          "color": [
+            249,
+            249,
+            249
+          ],
+          "frequency": 0.33892662363508974
+        },
+        {
+          "color": [
+            181,
+            219,
+            171
+          ],
+          "frequency": 0.08205144469247475
+        },
+        {
+          "color": [
+            223,
+            141,
+            114
+          ],
+          "frequency": 0.01369973021854858
+        },
+        {
+          "color": [
+            66,
+            103,
+            130
+          ],
+          "frequency": 0.007630520452413485
+        }
+      ],
+      "analysis_success": true,
+      "error_message": null
+    },
+    "timestamp": "2025-08-29T00:20:29.835014"
+  },
+  "https://tranco-list.eu/": {
+    "result": {
+      "visual_similarity_score": 0.515625,
+      "screenshot_path": "visual_data/screenshots/7cfbeffb921fc7b31553505037a5df55_1756407042.png",
+      "phash": "af7291955a3b9485",
+      "matched_template": null,
+      "template_matches": [],
+      "visual_elements": {
+        "has_login_form": false,
+        "has_password_field": false,
+        "form_count": 1,
+        "suspicious_keywords": []
+      },
+      "brand_analysis": {
+        "is_impersonation": false,
+        "suspected_brand": null,
+        "confidence": 0.5
+      },
+      "dominant_colors": [
+        {
+          "color": [
+            253,
+            254,
+            254
+          ],
+          "frequency": 0.5599847651458193
+        },
+        {
+          "color": [
+            228,
+            235,
+            238
+          ],
+          "frequency": 0.3402825140186263
+        },
+        {
+          "color": [
+            85,
+            160,
+            84
+          ],
+          "frequency": 0.06166187934554139
+        },
+        {
+          "color": [
+            37,
+            49,
+            55
+          ],
+          "frequency": 0.028745458058178755
+        },
+        {
+          "color": [
+            153,
+            167,
+            174
+          ],
+          "frequency": 0.009325383431834212
+        }
+      ],
+      "analysis_success": true,
+      "error_message": null
+    },
+    "timestamp": "2025-08-29T00:20:51.752207"
+  },
+  "https://demo.testfire.net/": {
+    "result": {
+      "visual_similarity_score": 0.484375,
+      "screenshot_path": "visual_data/screenshots/c7fb685bb54fc0b100261b10485d861f_1756407117.png",
+      "phash": "8a48edce5a95a5ac",
+      "matched_template": null,
+      "template_matches": [],
+      "visual_elements": {
+        "has_login_form": false,
+        "has_password_field": false,
+        "form_count": 1,
+        "suspicious_keywords": []
+      },
+      "brand_analysis": {
+        "is_impersonation": false,
+        "suspected_brand": null,
+        "confidence": 0.5
+      },
+      "dominant_colors": [
+        {
+          "color": [
+            254,
+            254,
+            254
+          ],
+          "frequency": 0.6578541550766165
+        },
+        {
+          "color": [
+            193,
+            210,
+            207
+          ],
+          "frequency": 0.24461921011529142
+        },
+        {
+          "color": [
+            115,
+            83,
+            139
+          ],
+          "frequency": 0.04896451873456438
+        },
+        {
+          "color": [
+            72,
+            74,
+            69
+          ],
+          "frequency": 0.025337692356037028
+        },
+        {
+          "color": [
+            10,
+            10,
+            10
+          ],
+          "frequency": 0.023224423717490637
+        }
+      ],
+      "analysis_success": true,
+      "error_message": null
+    },
+    "timestamp": "2025-08-29T00:22:05.464423"
+  },
+  "http://testphp.vulnweb.com/": {
+    "result": {
+      "visual_similarity_score": 0.546875,
+      "screenshot_path": "visual_data/screenshots/6c527fc2b6a2f3107af4adee41b81d2e_1756407153.png",
+      "phash": "808f3fce1bc613c6",
+      "matched_template": null,
+      "template_matches": [],
+      "visual_elements": {
+        "has_login_form": false,
+        "has_password_field": false,
+        "form_count": 1,
+        "suspicious_keywords": [
+          "locked"
+        ]
+      },
+      "brand_analysis": {
+        "is_impersonation": false,
+        "suspected_brand": null,
+        "confidence": 0.0,
+        "all_matches": {}
+      },
+      "dominant_colors": [
+        {
+          "color": [
+            254,
+            254,
+            254
+          ],
+          "frequency": 0.878981545924531
+        },
+        {
+          "color": [
+            237,
+            238,
+            238
+          ],
+          "frequency": 0.05465140232817436
+        },
+        {
+          "color": [
+            206,
+            207,
+            208
+          ],
+          "frequency": 0.04439260766235187
+        },
+        {
+          "color": [
+            81,
+            128,
+            159
+          ],
+          "frequency": 0.015336400477645848
+        },
+        {
+          "color": [
+            66,
+            58,
+            59
+          ],
+          "frequency": 0.006638043607296902
+        }
+      ],
+      "analysis_success": true,
+      "error_message": null
+    },
+    "timestamp": "2025-08-29T00:22:42.434630"
+  },
+  "https://adobe": {
+    "result": {
+      "visual_similarity_score": 0.0,
+      "screenshot_path": null,
+      "phash": null,
+      "matched_template": null,
+      "template_matches": [],
+      "visual_elements": {},
+      "brand_analysis": {
+        "is_impersonation": false,
+        "suspected_brand": null,
+        "confidence": 0.0,
+        "all_matches": {}
+      },
+      "dominant_colors": [],
+      "analysis_success": false,
+      "error_message": "Failed to take screenshot"
+    },
+    "timestamp": "2025-08-29T07:45:48.285792"
+  },
+  "https://starbucks.com": {
+    "result": {
+      "visual_similarity_score": 0.625,
+      "screenshot_path": "visual_data/screenshots/5817b9a8cb0eb57b921ba137c3c35f1c_1756433779.png",
+      "phash": "98ccf733e0b4f301",
+      "matched_template": null,
+      "template_matches": [],
+      "visual_elements": {
+        "has_login_form": false,
+        "has_password_field": false,
+        "form_count": 0,
+        "suspicious_keywords": []
+      },
+      "brand_analysis": {
+        "is_impersonation": false,
+        "suspected_brand": null,
+        "confidence": 0.0,
+        "all_matches": {}
+      },
+      "dominant_colors": [
+        {
+          "color": [
+            254,
+            254,
+            254
+          ],
+          "frequency": 0.3264486495797322
+        },
+        {
+          "color": [
+            244,
+            237,
+            227
+          ],
+          "frequency": 0.30017259960847936
+        },
+        {
+          "color": [
+            63,
+            52,
+            36
+          ],
+          "frequency": 0.17928391529933171
+        },
+        {
+          "color": [
+            145,
+            81,
+            57
+          ],
+          "frequency": 0.15607898614314944
+        },
+        {
+          "color": [
+            198,
+            151,
+            119
+          ],
+          "frequency": 0.0380158493693073
+        }
+      ],
+      "analysis_success": true,
+      "error_message": null
+    },
+    "timestamp": "2025-08-29T07:46:31.387290"
+  },
+  "https://harvard.edu": {
+    "result": {
+      "visual_similarity_score": 0.5625,
+      "screenshot_path": "visual_data/screenshots/3db767c9e6d077b1bdfd2028466ad3b2_1756434354.png",
+      "phash": "d65a5a52525852df",
+      "matched_template": null,
+      "template_matches": [],
+      "visual_elements": {
+        "has_login_form": false,
+        "has_password_field": false,
+        "form_count": 1,
+        "suspicious_keywords": [
+          "confirm"
+        ]
+      },
+      "brand_analysis": {
+        "is_impersonation": false,
+        "suspected_brand": null,
+        "confidence": 0.0,
+        "all_matches": {}
+      },
+      "dominant_colors": [
+        {
+          "color": [
+            211,
+            209,
+            205
+          ],
+          "frequency": 0.3255088371465083
+        },
+        {
+          "color": [
+            197,
+            196,
+            189
+          ],
+          "frequency": 0.26532330711557306
+        },
+        {
+          "color": [
+            225,
+            223,
+            222
+          ],
+          "frequency": 0.22549882799861268
+        },
+        {
+          "color": [
+            179,
+            178,
+            171
+          ],
+          "frequency": 0.11497281236106488
+        },
+        {
+          "color": [
+            25,
+            24,
+            24
+          ],
+          "frequency": 0.06869621537824104
+        }
+      ],
+      "analysis_success": true,
+      "error_message": null
+    },
+    "timestamp": "2025-08-29T07:56:02.411692"
+  },
+  "https://yale.edu": {
+    "result": {
+      "visual_similarity_score": 0.59375,
+      "screenshot_path": "visual_data/screenshots/f455cd7167c370fe38c76a997ce05641_1756448970.png",
+      "phash": "c699976ab1a59925",
+      "matched_template": null,
+      "template_matches": [],
+      "visual_elements": {
+        "has_login_form": false,
+        "has_password_field": false,
+        "form_count": 6,
+        "suspicious_keywords": [
+          "urgent",
+          "locked"
+        ]
+      },
+      "brand_analysis": {
+        "is_impersonation": true,
+        "suspected_brand": "apple",
+        "confidence": 0.41864701343320754,
+        "all_matches": {
+          "apple": {
+            "score": 0.41864701343320754,
+            "color_matches": 2,
+            "brand_in_url": false,
+            "legitimate_domain": false
+          }
+        }
+      },
+      "dominant_colors": [
+        {
+          "color": [
+            251,
+            252,
+            252
+          ],
+          "frequency": 0.6832194889748072
+        },
+        {
+          "color": [
+            207,
+            198,
+            195
+          ],
+          "frequency": 0.15747910299413184
+        },
+        {
+          "color": [
+            158,
+            122,
+            119
+          ],
+          "frequency": 0.07541281915797461
+        },
+        {
+          "color": [
+            29,
+            22,
+            21
+          ],
+          "frequency": 0.04560388913588466
+        },
+        {
+          "color": [
+            47,
+            61,
+            90
+          ],
+          "frequency": 0.03828469973720167
+        }
+      ],
+      "analysis_success": true,
+      "error_message": null
+    },
+    "timestamp": "2025-08-29T11:59:37.316346"
+  },
+  "http://testsafebrowsing.appspot.com/s/malware.html": {
+    "result": {
+      "visual_similarity_score": 0.546875,
+      "screenshot_path": "visual_data/screenshots/9e4e71d9872114c0d619370f676509f2_1756462670.png",
+      "phash": "83030303070fffff",
+      "matched_template": null,
+      "template_matches": [],
+      "visual_elements": {
+        "has_login_form": false,
+        "has_password_field": false,
+        "form_count": 0,
+        "suspicious_keywords": []
+      },
+      "brand_analysis": {
+        "is_impersonation": false,
+        "suspected_brand": null,
+        "confidence": 0.0,
+        "all_matches": {}
+      },
+      "dominant_colors": [
+        {
+          "color": [
+            254,
+            254,
+            254
+          ],
+          "frequency": 0.9984305423328763
+        },
+        {
+          "color": [
+            7,
+            7,
+            229
+          ],
+          "frequency": 0.0006404108871596599
+        },
+        {
+          "color": [
+            5,
+            5,
+            5
+          ],
+          "frequency": 0.00047950801546529735
+        },
+        {
+          "color": [
+            157,
+            157,
+            215
+          ],
+          "frequency": 0.00028456240238171164
+        },
+        {
+          "color": [
+            101,
+            101,
+            101
+          ],
+          "frequency": 0.00016497636211700462
+        }
+      ],
+      "analysis_success": true,
+      "error_message": null
+    },
+    "timestamp": "2025-08-29T15:47:56.420969"
+  },
+  "http://testsafebrowsing.appspot.com/s/unwanted.html": {
+    "result": {
+      "visual_similarity_score": 0.46875,
+      "screenshot_path": "visual_data/screenshots/929e0e107ec6e92b3ef5bebb47d50dfb_1756462765.png",
+      "phash": "870f0f0f0f0f0f0f",
+      "matched_template": null,
+      "template_matches": [],
+      "visual_elements": {
+        "has_login_form": false,
+        "has_password_field": false,
+        "form_count": 0,
+        "suspicious_keywords": []
+      },
+      "brand_analysis": {
+        "is_impersonation": false,
+        "suspected_brand": null,
+        "confidence": 0.0,
+        "all_matches": {}
+      },
+      "dominant_colors": [
+        {
+          "color": [
+            254,
+            254,
+            254
+          ],
+          "frequency": 0.9988681515897088
+        },
+        {
+          "color": [
+            2,
+            2,
+            2
+          ],
+          "frequency": 0.0006235349982658569
+        },
+        {
+          "color": [
+            200,
+            200,
+            200
+          ],
+          "frequency": 0.00018243417821404214
+        },
+        {
+          "color": [
+            129,
+            129,
+            129
+          ],
+          "frequency": 0.00017195948855581962
+        },
+        {
+          "color": [
+            62,
+            62,
+            62
+          ],
+          "frequency": 0.00015391974525554752
+        }
+      ],
+      "analysis_success": true,
+      "error_message": null
+    },
+    "timestamp": "2025-08-29T15:49:30.908134"
+  },
+  "http://testsafebrowsing.appspot.com/s/malware_in_iframe.html": {
+    "result": {
+      "visual_similarity_score": 0.546875,
+      "screenshot_path": "visual_data/screenshots/5f290f1b15e70d2c70440564a9df4760_1756497577.png",
+      "phash": "83030307071f3fff",
+      "matched_template": null,
+      "template_matches": [],
+      "visual_elements": {
+        "has_login_form": false,
+        "has_password_field": false,
+        "form_count": 0,
+        "suspicious_keywords": []
+      },
+      "brand_analysis": {
+        "is_impersonation": false,
+        "suspected_brand": null,
+        "confidence": 0.0,
+        "all_matches": {}
+      },
+      "dominant_colors": [
+        {
+          "color": [
+            254,
+            254,
+            254
+          ],
+          "frequency": 0.9964182380640911
+        },
+        {
+          "color": [
+            154,
+            154,
+            163
+          ],
+          "frequency": 0.0015653841767010314
+        },
+        {
+          "color": [
+            3,
+            3,
+            3
+          ],
+          "frequency": 0.001064926781919289
+        },
+        {
+          "color": [
+            9,
+            9,
+            229
+          ],
+          "frequency": 0.0006517584676227343
+        },
+        {
+          "color": [
+            78,
+            78,
+            78
+          ],
+          "frequency": 0.00029969250966581086
+        }
+      ],
+      "analysis_success": true,
+      "error_message": null
+    },
+    "timestamp": "2025-08-30T01:29:43.036784"
+  },
+  "https://www.onlinesbi.sbi/": {
+    "result": {
+      "visual_similarity_score": 0.546875,
+      "screenshot_path": "visual_data/screenshots/be3b657e387a92d4cd695e6df8100b1e_1756500887.png",
+      "phash": "dd532306de81c5d6",
+      "matched_template": null,
+      "template_matches": [],
+      "visual_elements": {
+        "has_login_form": false,
+        "has_password_field": false,
+        "form_count": 1,
+        "suspicious_keywords": []
+      },
+      "brand_analysis": {
+        "is_impersonation": false,
+        "suspected_brand": null,
+        "confidence": 0.0,
+        "all_matches": {}
+      },
+      "dominant_colors": [
+        {
+          "color": [
+            247,
+            249,
+            249
+          ],
+          "frequency": 0.8830564911651811
+        },
+        {
+          "color": [
+            29,
+            54,
+            95
+          ],
+          "frequency": 0.08333022972158274
+        },
+        {
+          "color": [
+            78,
+            119,
+            190
+          ],
+          "frequency": 0.013744538613197644
+        },
+        {
+          "color": [
+            176,
+            183,
+            189
+          ],
+          "frequency": 0.012758172003715023
+        },
+        {
+          "color": [
+            170,
+            50,
+            45
+          ],
+          "frequency": 0.007110568496323384
+        }
+      ],
+      "analysis_success": true,
+      "error_message": null
+    },
+    "timestamp": "2025-08-30T02:24:54.490184"
+  },
+  "https://www.netpnb.com/": {
+    "result": {
+      "visual_similarity_score": 0.484375,
+      "screenshot_path": "visual_data/screenshots/c04d0c931fc3f5d1ab23630b477bcc72_1756500927.png",
+      "phash": "e5fb3a000a3f4b35",
+      "matched_template": null,
+      "template_matches": [],
+      "visual_elements": {
+        "has_login_form": false,
+        "has_password_field": false,
+        "form_count": 0,
+        "suspicious_keywords": [
+          "verify",
+          "confirm"
+        ]
+      },
+      "brand_analysis": {
+        "is_impersonation": false,
+        "suspected_brand": null,
+        "confidence": 0.0,
+        "all_matches": {}
+      },
+      "dominant_colors": [
+        {
+          "color": [
+            132,
+            51,
+            67
+          ],
+          "frequency": 0.2981070490005982
+        },
+        {
+          "color": [
+            114,
+            30,
+            48
+          ],
+          "frequency": 0.2500634300651526
+        },
+        {
+          "color": [
+            242,
+            240,
+            240
+          ],
+          "frequency": 0.2341951481237503
+        },
+        {
+          "color": [
+            214,
+            183,
+            96
+          ],
+          "frequency": 0.1591896780080399
+        },
+        {
+          "color": [
+            39,
+            37,
+            39
+          ],
+          "frequency": 0.058444694802458994
+        }
+      ],
+      "analysis_success": true,
+      "error_message": null
+    },
+    "timestamp": "2025-08-30T02:25:38.097354"
+  },
+  "https://www.unionbankofindia.co.in/": {
+    "result": {
+      "visual_similarity_score": 0.53125,
+      "screenshot_path": "visual_data/screenshots/79635b85e9fe1f174791a4ef3116f764_1756549703.png",
+      "phash": "be32c3cdc0c43f32",
+      "matched_template": null,
+      "template_matches": [],
+      "visual_elements": {
+        "has_login_form": false,
+        "has_password_field": false,
+        "form_count": 0,
+        "suspicious_keywords": [
+          "verify"
+        ]
+      },
+      "brand_analysis": {
+        "is_impersonation": false,
+        "suspected_brand": null,
+        "confidence": 0.0,
+        "all_matches": {}
+      },
+      "dominant_colors": [
+        {
+          "color": [
+            254,
+            254,
+            254
+          ],
+          "frequency": 0.9771896174876108
+        },
+        {
+          "color": [
+            49,
+            49,
+            49
+          ],
+          "frequency": 0.015149892809009163
+        },
+        {
+          "color": [
+            220,
+            220,
+            220
+          ],
+          "frequency": 0.003649556455085695
+        },
+        {
+          "color": [
+            134,
+            120,
+            109
+          ],
+          "frequency": 0.0021423649987081217
+        },
+        {
+          "color": [
+            172,
+            174,
+            174
+          ],
+          "frequency": 0.0018685682495862498
+        }
+      ],
+      "analysis_success": true,
+      "error_message": null
+    },
+    "timestamp": "2025-08-30T15:58:29.865293"
+  },
+  "https://home.iitd.ac.in/": {
+    "result": {
+      "visual_similarity_score": 0.484375,
+      "screenshot_path": "visual_data/screenshots/29e2f0b79dbab83d4d70d33065ce256b_1756549787.png",
+      "phash": "91cad68b59342b3d",
+      "matched_template": null,
+      "template_matches": [],
+      "visual_elements": {
+        "has_login_form": false,
+        "has_password_field": false,
+        "form_count": 1,
+        "suspicious_keywords": [
+          "confirm"
+        ]
+      },
+      "brand_analysis": {
+        "is_impersonation": false,
+        "suspected_brand": null,
+        "confidence": 0.0,
+        "all_matches": {}
+      },
+      "dominant_colors": [
+        {
+          "color": [
+            81,
+            81,
+            81
+          ],
+          "frequency": 0.5198669947184287
+        },
+        {
+          "color": [
+            88,
+            88,
+            88
+          ],
+          "frequency": 0.41822962614668757
+        },
+        {
+          "color": [
+            252,
+            252,
+            252
+          ],
+          "frequency": 0.04772210415565854
+        },
+        {
+          "color": [
+            169,
+            168,
+            168
+          ],
+          "frequency": 0.007217934065320165
+        },
+        {
+          "color": [
+            178,
+            45,
+            36
+          ],
+          "frequency": 0.006963340913905034
+        }
+      ],
+      "analysis_success": true,
+      "error_message": null
+    },
+    "timestamp": "2025-08-30T16:00:01.984289"
+  },
+  "https://www.sisainfosec.com/#1": {
+    "result": {
+      "visual_similarity_score": 0.640625,
+      "screenshot_path": "visual_data/screenshots/215a0595a23f7a54e36a0ab095088114_1756552267.png",
+      "phash": "f5aa02e07ddf02e4",
+      "matched_template": null,
+      "template_matches": [],
+      "visual_elements": {
+        "has_login_form": true,
+        "has_password_field": true,
+        "form_count": 4,
+        "suspicious_keywords": [
+          "urgent"
+        ]
+      },
+      "brand_analysis": {
+        "is_impersonation": false,
+        "suspected_brand": null,
+        "confidence": 0.0,
+        "all_matches": {}
+      },
+      "dominant_colors": [
+        {
+          "color": [
+            254,
+            254,
+            254
+          ],
+          "frequency": 0.8675065234039483
+        },
+        {
+          "color": [
+            50,
+            50,
+            58
+          ],
+          "frequency": 0.09467024513101509
+        },
+        {
+          "color": [
+            24,
+            7,
+            1
+          ],
+          "frequency": 0.025023160702688736
+        },
+        {
+          "color": [
+            57,
+            122,
+            244
+          ],
+          "frequency": 0.00747310914393853
+        },
+        {
+          "color": [
+            143,
+            140,
+            140
+          ],
+          "frequency": 0.0053269616184093834
+        }
+      ],
+      "analysis_success": true,
+      "error_message": null
+    },
+    "timestamp": "2025-08-30T16:41:18.610517"
+  },
+  "https://www.nfsu.ac.in": {
+    "result": {
+      "visual_similarity_score": 0.609375,
+      "screenshot_path": "visual_data/screenshots/5a5f4a6c28c4115c66180e0f5cafa7fd_1756552766.png",
+      "phash": "e16131253d3f0d3d",
+      "matched_template": null,
+      "template_matches": [],
+      "visual_elements": {
+        "has_login_form": false,
+        "has_password_field": false,
+        "form_count": 1,
+        "suspicious_keywords": []
+      },
+      "brand_analysis": {
+        "is_impersonation": false,
+        "suspected_brand": null,
+        "confidence": 0.0,
+        "all_matches": {}
+      },
+      "dominant_colors": [
+        {
+          "color": [
+            122,
+            121,
+            122
+          ],
+          "frequency": 0.8318707562958704
+        },
+        {
+          "color": [
+            9,
+            32,
+            69
+          ],
+          "frequency": 0.08021604629347287
+        },
+        {
+          "color": [
+            253,
+            253,
+            253
+          ],
+          "frequency": 0.05804171021421904
+        },
+        {
+          "color": [
+            213,
+            180,
+            108
+          ],
+          "frequency": 0.024299825189068147
+        },
+        {
+          "color": [
+            195,
+            190,
+            200
+          ],
+          "frequency": 0.005571662007369526
+        }
+      ],
+      "analysis_success": true,
+      "error_message": null
+    },
+    "timestamp": "2025-08-30T16:49:34.452209"
+  },
+  "https://web.whatsapp.com": {
+    "result": {
+      "visual_similarity_score": 0.53125,
+      "screenshot_path": "visual_data/screenshots/d52542a55c37529280ae68ff2ddc0432_1756552975.png",
+      "phash": "e99692699663326d",
+      "matched_template": null,
+      "template_matches": [],
+      "visual_elements": {
+        "has_login_form": false,
+        "has_password_field": false,
+        "form_count": 0,
+        "suspicious_keywords": [
+          "confirm",
+          "locked"
+        ]
+      },
+      "brand_analysis": {
+        "is_impersonation": false,
+        "suspected_brand": null,
+        "confidence": 0.0,
+        "all_matches": {}
+      },
+      "dominant_colors": [
+        {
+          "color": [
+            251,
+            245,
+            236
+          ],
+          "frequency": 0.9484560889370983
+        },
+        {
+          "color": [
+            26,
+            45,
+            48
+          ],
+          "frequency": 0.021238888100054237
+        },
+        {
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "frequency": 0.012865537572711805
+        },
+        {
+          "color": [
+            193,
+            196,
+            194
+          ],
+          "frequency": 0.00896022411180451
+        },
+        {
+          "color": [
+            90,
+            101,
+            102
+          ],
+          "frequency": 0.008479261278331126
+        }
+      ],
+      "analysis_success": true,
+      "error_message": null
+    },
+    "timestamp": "2025-08-30T16:53:02.482647"
+  },
+  "https://www.eicar.org/download-anti-malware-testfile/": {
+    "result": {
+      "visual_similarity_score": 0.5625,
+      "screenshot_path": "visual_data/screenshots/ee9c6b342d02f773b98cbbdd2cd64099_1756553278.png",
+      "phash": "d2e8e8529517bd25",
+      "matched_template": null,
+      "template_matches": [],
+      "visual_elements": {
+        "has_login_form": false,
+        "has_password_field": false,
+        "form_count": 0,
+        "suspicious_keywords": []
+      },
+      "brand_analysis": {
+        "is_impersonation": false,
+        "suspected_brand": null,
+        "confidence": 0.0,
+        "all_matches": {}
+      },
+      "dominant_colors": [
+        {
+          "color": [
+            254,
+            254,
+            254
+          ],
+          "frequency": 0.6296056628500001
+        },
+        {
+          "color": [
+            46,
+            46,
+            46
+          ],
+          "frequency": 0.286180741933907
+        },
+        {
+          "color": [
+            223,
+            223,
+            223
+          ],
+          "frequency": 0.044616358671995565
+        },
+        {
+          "color": [
+            108,
+            109,
+            109
+          ],
+          "frequency": 0.029846755290300203
+        },
+        {
+          "color": [
+            31,
+            72,
+            116
+          ],
+          "frequency": 0.009750481253797075
+        }
+      ],
+      "analysis_success": true,
+      "error_message": null
+    },
+    "timestamp": "2025-08-30T16:58:21.144281"
+  },
+  "https://www.amtso.org/security-features-check/": {
+    "result": {
+      "visual_similarity_score": 0.5625,
+      "screenshot_path": "visual_data/screenshots/94193475b022872cfec5f0ba3399cd07_1756553399.png",
+      "phash": "800dff5f42202d7f",
+      "matched_template": null,
+      "template_matches": [],
+      "visual_elements": {
+        "has_login_form": false,
+        "has_password_field": false,
+        "form_count": 2,
+        "suspicious_keywords": [
+          "verify",
+          "locked"
+        ]
+      },
+      "brand_analysis": {
+        "is_impersonation": false,
+        "suspected_brand": null,
+        "confidence": 0.0,
+        "all_matches": {}
+      },
+      "dominant_colors": [
+        {
+          "color": [
+            251,
+            252,
+            253
+          ],
+          "frequency": 0.8313432392861383
+        },
+        {
+          "color": [
+            228,
+            185,
+            116
+          ],
+          "frequency": 0.08038887867283355
+        },
+        {
+          "color": [
+            23,
+            42,
+            63
+          ],
+          "frequency": 0.041071549113492097
+        },
+        {
+          "color": [
+            101,
+            188,
+            177
+          ],
+          "frequency": 0.029806311349675402
+        },
+        {
+          "color": [
+            88,
+            96,
+            102
+          ],
+          "frequency": 0.017390021577860695
+        }
+      ],
+      "analysis_success": true,
+      "error_message": null
+    },
+    "timestamp": "2025-08-30T17:00:06.648752"
+  },
+  "https://secure.eicar.org/eicar.com": {
+    "result": {
+      "visual_similarity_score": 0.53125,
+      "screenshot_path": "visual_data/screenshots/bf629aa6a7af26e870c0b5a9f3ef1128_1756553499.png",
+      "phash": "9c1c1c1d1d1d1f1f",
+      "matched_template": null,
+      "template_matches": [],
+      "visual_elements": {
+        "has_login_form": false,
+        "has_password_field": false,
+        "form_count": 0,
+        "suspicious_keywords": []
+      },
+      "brand_analysis": {
+        "is_impersonation": false,
+        "suspected_brand": null,
+        "confidence": 0.0,
+        "all_matches": {}
+      },
+      "dominant_colors": [
+        {
+          "color": [
+            254,
+            254,
+            254
+          ],
+          "frequency": 0.9974176980356465
+        },
+        {
+          "color": [
+            1,
+            1,
+            1
+          ],
+          "frequency": 0.0014647107705414483
+        },
+        {
+          "color": [
+            201,
+            201,
+            201
+          ],
+          "frequency": 0.0004643779081811982
+        },
+        {
+          "color": [
+            142,
+            142,
+            142
+          ],
+          "frequency": 0.00032907983342915736
+        },
+        {
+          "color": [
+            73,
+            73,
+            73
+          ],
+          "frequency": 0.00032413345220166337
+        }
+      ],
+      "analysis_success": true,
+      "error_message": null
+    },
+    "timestamp": "2025-08-30T17:01:45.539178"
+  },
+  "https://www.onlinesbi.sbi": {
+    "result": {
+      "visual_similarity_score": 0.546875,
+      "screenshot_path": "visual_data/screenshots/ee71ad697717e190bb67cb5fb06440a3_1756553636.png",
+      "phash": "dd532306de81c5d6",
+      "matched_template": null,
+      "template_matches": [],
+      "visual_elements": {
+        "has_login_form": false,
+        "has_password_field": false,
+        "form_count": 1,
+        "suspicious_keywords": []
+      },
+      "brand_analysis": {
+        "is_impersonation": false,
+        "suspected_brand": null,
+        "confidence": 0.0,
+        "all_matches": {}
+      },
+      "dominant_colors": [
+        {
+          "color": [
+            247,
+            248,
+            249
+          ],
+          "frequency": 0.8861604908672345
+        },
+        {
+          "color": [
+            28,
+            56,
+            108
+          ],
+          "frequency": 0.07679984264688425
+        },
+        {
+          "color": [
+            125,
+            161,
+            190
+          ],
+          "frequency": 0.01762366534995938
+        },
+        {
+          "color": [
+            39,
+            49,
+            33
+          ],
+          "frequency": 0.012052876233394707
+        },
+        {
+          "color": [
+            141,
+            86,
+            75
+          ],
+          "frequency": 0.007363124902527193
+        }
+      ],
+      "analysis_success": true,
+      "error_message": null
+    },
+    "timestamp": "2025-08-30T17:04:04.414524"
+  },
+  "https://www.eicar.org/download-antimalware-testfile/": {
+    "result": {
+      "visual_similarity_score": 0.609375,
+      "screenshot_path": "visual_data/screenshots/65804296cb340f4d9e289dc777392f79_1756558014.png",
+      "phash": "b0d27a9695359725",
+      "matched_template": null,
+      "template_matches": [],
+      "visual_elements": {
+        "has_login_form": false,
+        "has_password_field": false,
+        "form_count": 1,
+        "suspicious_keywords": [
+          "verify"
+        ]
+      },
+      "brand_analysis": {
+        "is_impersonation": true,
+        "suspected_brand": "facebook",
+        "confidence": 0.4726004813701825,
+        "all_matches": {
+          "facebook": {
+            "score": 0.4726004813701825,
+            "color_matches": 2,
+            "brand_in_url": false,
+            "legitimate_domain": false
+          }
+        }
+      },
+      "dominant_colors": [
+        {
+          "color": [
+            253,
+            253,
+            253
+          ],
+          "frequency": 0.8872580055725349
+        },
+        {
+          "color": [
+            52,
+            52,
+            52
+          ],
+          "frequency": 0.03532821858116837
+        },
+        {
+          "color": [
+            15,
+            15,
+            15
+          ],
+          "frequency": 0.030625955815431313
+        },
+        {
+          "color": [
+            191,
+            191,
+            192
+          ],
+          "frequency": 0.0253775543694586
+        },
+        {
+          "color": [
+            66,
+            88,
+            111
+          ],
+          "frequency": 0.02141026566140682
+        }
+      ],
+      "analysis_success": true,
+      "error_message": null
+    },
+    "timestamp": "2025-08-30T18:17:02.546998"
+  },
+  "https://www.chatgpt.com": {
+    "result": {
+      "visual_similarity_score": 0.59375,
+      "screenshot_path": "visual_data/screenshots/07ca30fa234eb6d0f351849a098ba464_1756559196.png",
+      "phash": "fada4ada5a42d252",
+      "matched_template": null,
+      "template_matches": [],
+      "visual_elements": {
+        "has_login_form": false,
+        "has_password_field": false,
+        "form_count": 1,
+        "suspicious_keywords": []
+      },
+      "brand_analysis": {
+        "is_impersonation": false,
+        "suspected_brand": null,
+        "confidence": 0.0,
+        "all_matches": {}
+      },
+      "dominant_colors": [
+        {
+          "color": [
+            254,
+            254,
+            254
+          ],
+          "frequency": 0.8020565889289514
+        },
+        {
+          "color": [
+            235,
+            235,
+            235
+          ],
+          "frequency": 0.17910468172073546
+        },
+        {
+          "color": [
+            98,
+            98,
+            98
+          ],
+          "frequency": 0.00829071686448312
+        },
+        {
+          "color": [
+            15,
+            15,
+            15
+          ],
+          "frequency": 0.006076192892573911
+        },
+        {
+          "color": [
+            166,
+            166,
+            166
+          ],
+          "frequency": 0.004471819593256162
+        }
+      ],
+      "analysis_success": true,
+      "error_message": null
+    },
+    "timestamp": "2025-08-30T18:36:43.766935"
+  }
+}

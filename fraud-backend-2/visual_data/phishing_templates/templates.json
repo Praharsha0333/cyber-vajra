@@ -1,0 +1,20 @@
+{
+  "fake_paypal_login": {
+    "phash": "f0f0f0f0f0f0f0f0",
+    "description": "Fake PayPal login page",
+    "similarity_threshold": 0.85,
+    "brand": "paypal"
+  },
+  "fake_amazon_login": {
+    "phash": "a1a2a3a4b5b6c7c8",
+    "description": "Fake Amazon login page",
+    "similarity_threshold": 0.85,
+    "brand": "amazon"
+  },
+  "fake_microsoft_login": {
+    "phash": "1234567890abcdef",
+    "description": "Fake Microsoft/Office 365 login",
+    "similarity_threshold": 0.85,
+    "brand": "microsoft"
+  }
+}

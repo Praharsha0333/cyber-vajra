@@ -1,0 +1,70 @@
+{
+    "brands": {
+        "paypal": {
+            "primary_colors": [
+                [
+                    0,
+                    48,
+                    135
+                ],
+                [
+                    255,
+                    179,
+                    0
+                ]
+            ],
+            "legitimate_patterns": {
+                "domains": [
+                    "paypal.com",
+                    "paypal.me"
+                ]
+            }
+        },
+        "microsoft": {
+            "primary_colors": [
+                [
+                    0,
+                    120,
+                    212
+                ],
+                [
+                    242,
+                    80,
+                    34
+                ]
+            ],
+            "legitimate_patterns": {
+                "domains": [
+                    "microsoft.com",
+                    "office.com",
+                    "outlook.com"
+                ]
+            }
+        },
+        "google": {
+            "primary_colors": [
+                [
+                    66,
+                    133,
+                    244
+                ],
+                [
+                    234,
+                    67,
+                    53
+                ],
+                [
+                    251,
+                    188,
+                    5
+                ]
+            ],
+            "legitimate_patterns": {
+                "domains": [
+                    "google.com",
+                    "gmail.com"
+                ]
+            }
+        }
+    }
+}

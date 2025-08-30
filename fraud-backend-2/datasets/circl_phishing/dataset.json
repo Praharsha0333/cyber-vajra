@@ -1,0 +1,47 @@
+{
+  "metadata": {
+    "total_samples": 460,
+    "description": "Curated phishing patterns and indicators"
+  },
+  "brand_patterns": {
+    "high_risk_tlds": [
+      ".tk",
+      ".ml",
+      ".ga",
+      ".cf",
+      ".pw",
+      ".top",
+      ".click"
+    ],
+    "suspicious_keywords": [
+      "secure",
+      "verify",
+      "update",
+      "suspend",
+      "alert",
+      "urgent",
+      "confirm",
+      "validate",
+      "restore",
+      "immediate"
+    ],
+    "brand_spoofing_indicators": [
+      "paypal-",
+      "microsoft-",
+      "amazon-",
+      "google-",
+      "apple-",
+      "facebook-",
+      "netflix-",
+      "linkedin-"
+    ],
+    "phishing_phrases": [
+      "verify account",
+      "suspended account",
+      "update required",
+      "security alert",
+      "confirm identity",
+      "immediate action"
+    ]
+  }
+}

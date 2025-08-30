@@ -1,0 +1,10 @@
+2025-08-27 21:01:48,402 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.153.208:5000
+2025-08-27 21:01:48,402 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-27 21:01:48,403 - werkzeug - INFO -  * Restarting with stat
+2025-08-27 21:01:48,580 - werkzeug - WARNING -  * Debugger is active!
+2025-08-27 21:01:48,590 - werkzeug - INFO -  * Debugger PIN: 130-377-598
+2025-08-27 21:03:04,244 - werkzeug - INFO -  * Detected change in '/Users/tasheebisht/Desktop/fraud-backend/app.py', reloading
+2025-08-27 21:03:04,286 - werkzeug - INFO -  * Restarting with stat

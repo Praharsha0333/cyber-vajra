@@ -1,0 +1,86 @@
+[
+  {
+    "url": "https://www.india.gov.in/",
+    "type": "legitimate",
+    "source": "https://www.india.gov.in/website-directory",
+    "collected_at": "2025-08-27T21:22:36.662412"
+  },
+  {
+    "url": "https://services.india.gov.in/",
+    "type": "legitimate",
+    "source": "https://www.india.gov.in/website-directory",
+    "collected_at": "2025-08-27T21:22:36.662428"
+  },
+  {
+    "url": "https://indiacode.nic.in/",
+    "type": "legitimate",
+    "source": "https://www.india.gov.in/website-directory",
+    "collected_at": "2025-08-27T21:22:36.662432"
+  },
+  {
+    "url": "https://knowindia.gov.in/my-india-my-pride/",
+    "type": "legitimate",
+    "source": "https://www.india.gov.in/website-directory",
+    "collected_at": "2025-08-27T21:22:36.662435"
+  },
+  {
+    "url": "https://www.india.gov.in",
+    "type": "legitimate",
+    "source": "https://www.india.gov.in/website-directory",
+    "collected_at": "2025-08-27T21:22:36.662440"
+  },
+  {
+    "url": "https://data.gov.in/",
+    "type": "legitimate",
+    "source": "https://www.india.gov.in/website-directory",
+    "collected_at": "2025-08-27T21:22:36.662445"
+  },
+  {
+    "url": "https://pib.gov.in/",
+    "type": "legitimate",
+    "source": "https://www.india.gov.in/website-directory",
+    "collected_at": "2025-08-27T21:22:36.662446"
+  },
+  {
+    "url": "https://www.nic.in/",
+    "type": "legitimate",
+    "source": "https://www.india.gov.in/website-directory",
+    "collected_at": "2025-08-27T21:22:36.662457"
+  },
+  {
+    "url": "https://www.meity.gov.in/ministry/our-groups/details/digital-governance-wMyMDOtQWa",
+    "type": "legitimate",
+    "source": "https://www.india.gov.in/website-directory",
+    "collected_at": "2025-08-27T21:22:36.662458"
+  },
+  {
+    "url": "https://www.nic.in/",
+    "type": "legitimate",
+    "source": "https://www.india.gov.in/website-directory",
+    "collected_at": "2025-08-27T21:22:36.662459"
+  },
+  {
+    "url": "https://www.meity.gov.in/",
+    "type": "legitimate",
+    "source": "https://www.india.gov.in/website-directory",
+    "collected_at": "2025-08-27T21:22:36.662460"
+  },
+  {
+    "url": "https://www.india.gov.in/sites/upload_files/npi/files/stqc_certificate_npi.pdf",
+    "type": "legitimate",
+    "source": "https://www.india.gov.in/website-directory",
+    "collected_at": "2025-08-27T21:22:36.662462"
+  },
+  {
+    "url": "https://website.rbi.org.in",
+    "type": "legitimate",
+    "source": "https://www.rbi.org.in/Scripts/BS_ViewMasterDirection.aspx?Id=11507",
+    "collected_at": "2025-08-27T21:22:37.795546"
+  },
+  {
+    "url": "https://data.rbi.org.in",
+    "type": "legitimate",
+    "source": "https://www.rbi.org.in/Scripts/BS_ViewMasterDirection.aspx?Id=11507",
+    "collected_at": "2025-08-27T21:22:37.795571"
+  }
+]

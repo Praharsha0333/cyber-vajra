@@ -1,0 +1,284 @@
+{
+  "classes": [
+    "paypal",
+    "microsoft",
+    "amazon",
+    "google",
+    "apple",
+    "facebook",
+    "netflix",
+    "linkedin",
+    "instagram",
+    "twitter",
+    "dropbox",
+    "adobe",
+    "yahoo",
+    "ebay",
+    "legitimate"
+  ],
+  "brand_signatures": {
+    "paypal": {
+      "primary_colors": [
+        [
+          0,
+          48,
+          135
+        ],
+        [
+          255,
+          179,
+          0
+        ],
+        [
+          255,
+          255,
+          255
+        ]
+      ],
+      "logo_keywords": [
+        "paypal",
+        "pp"
+      ],
+      "common_elements": [
+        "sign in",
+        "log in",
+        "email or mobile number",
+        "password"
+      ],
+      "legitimate_domains": [
+        "paypal.com",
+        "paypal.me"
+      ],
+      "common_phishing_patterns": [
+        "paypal-",
+        "paypal.",
+        "pp-",
+        "secure-paypal"
+      ]
+    },
+    "microsoft": {
+      "primary_colors": [
+        [
+          0,
+          120,
+          212
+        ],
+        [
+          255,
+          185,
+          0
+        ],
+        [
+          16,
+          137,
+          62
+        ],
+        [
+          196,
+          57,
+          43
+        ]
+      ],
+      "logo_keywords": [
+        "microsoft",
+        "outlook",
+        "office",
+        "windows",
+        "onedrive"
+      ],
+      "common_elements": [
+        "microsoft account",
+        "sign in",
+        "work or school account"
+      ],
+      "legitimate_domains": [
+        "microsoft.com",
+        "outlook.com",
+        "office.com",
+        "live.com"
+      ],
+      "common_phishing_patterns": [
+        "microsoft-",
+        "outlook-",
+        "office-",
+        "windows-"
+      ]
+    },
+    "amazon": {
+      "primary_colors": [
+        [
+          35,
+          47,
+          62
+        ],
+        [
+          255,
+          153,
+          0
+        ],
+        [
+          132,
+          189,
+          0
+        ]
+      ],
+      "logo_keywords": [
+        "amazon",
+        "prime",
+        "aws"
+      ],
+      "common_elements": [
+        "sign in",
+        "your account",
+        "amazon prime",
+        "1-click"
+      ],
+      "legitimate_domains": [
+        "amazon.com",
+        "amazon.co.uk",
+        "aws.amazon.com"
+      ],
+      "common_phishing_patterns": [
+        "amazon-",
+        "amaz0n",
+        "amazom",
+        "prime-"
+      ]
+    },
+    "google": {
+      "primary_colors": [
+        [
+          66,
+          133,
+          244
+        ],
+        [
+          234,
+          67,
+          53
+        ],
+        [
+          251,
+          188,
+          5
+        ],
+        [
+          52,
+          168,
+          83
+        ]
+      ],
+      "logo_keywords": [
+        "google",
+        "gmail",
+        "drive",
+        "chrome"
+      ],
+      "common_elements": [
+        "google account",
+        "sign in",
+        "gmail",
+        "continue to"
+      ],
+      "legitimate_domains": [
+        "google.com",
+        "gmail.com",
+        "accounts.google.com",
+        "drive.google.com"
+      ],
+      "common_phishing_patterns": [
+        "google-",
+        "gmail-",
+        "googIe",
+        "goog1e"
+      ]
+    },
+    "apple": {
+      "primary_colors": [
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          255,
+          255,
+          255
+        ],
+        [
+          29,
+          29,
+          31
+        ],
+        [
+          99,
+          99,
+          102
+        ]
+      ],
+      "logo_keywords": [
+        "apple",
+        "icloud",
+        "app store",
+        "itunes"
+      ],
+      "common_elements": [
+        "apple id",
+        "sign in",
+        "icloud",
+        "continue"
+      ],
+      "legitimate_domains": [
+        "apple.com",
+        "icloud.com",
+        "itunes.apple.com"
+      ],
+      "common_phishing_patterns": [
+        "apple-",
+        "icloud-",
+        "appIe",
+        "app1e"
+      ]
+    },
+    "facebook": {
+      "primary_colors": [
+        [
+          24,
+          119,
+          242
+        ],
+        [
+          66,
+          103,
+          178
+        ],
+        [
+          255,
+          255,
+          255
+        ]
+      ],
+      "logo_keywords": [
+        "facebook",
+        "meta",
+        "fb"
+      ],
+      "common_elements": [
+        "log in",
+        "connect with friends",
+        "facebook"
+      ],
+      "legitimate_domains": [
+        "facebook.com",
+        "meta.com",
+        "fb.com"
+      ],
+      "common_phishing_patterns": [
+        "facebook-",
+        "fb-",
+        "faceb00k",
+        "face-book"
+      ]
+    }
+  }
+}

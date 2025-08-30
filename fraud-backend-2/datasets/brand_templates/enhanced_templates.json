@@ -1,0 +1,185 @@
+{
+  "template_version": "2.0",
+  "brands": {
+    "paypal": {
+      "primary_colors": [
+        [
+          0,
+          48,
+          135
+        ],
+        [
+          255,
+          179,
+          0
+        ],
+        [
+          92,
+          159,
+          214
+        ]
+      ],
+      "secondary_colors": [
+        [
+          255,
+          255,
+          255
+        ],
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          102,
+          102,
+          102
+        ]
+      ],
+      "legitimate_patterns": {
+        "domains": [
+          "paypal.com",
+          "paypal.me"
+        ],
+        "subdomains": [
+          "www.paypal.com",
+          "business.paypal.com"
+        ]
+      },
+      "visual_weights": {
+        "color_similarity": 0.3,
+        "logo_detection": 0.4,
+        "ui_layout": 0.2,
+        "text_content": 0.1
+      }
+    },
+    "microsoft": {
+      "primary_colors": [
+        [
+          0,
+          120,
+          212
+        ],
+        [
+          255,
+          185,
+          0
+        ],
+        [
+          16,
+          137,
+          62
+        ],
+        [
+          196,
+          57,
+          43
+        ]
+      ],
+      "secondary_colors": [
+        [
+          255,
+          255,
+          255
+        ],
+        [
+          243,
+          242,
+          241
+        ],
+        [
+          50,
+          49,
+          48
+        ]
+      ],
+      "legitimate_patterns": {
+        "domains": [
+          "microsoft.com",
+          "outlook.com",
+          "office.com",
+          "live.com"
+        ],
+        "subdomains": [
+          "account.microsoft.com",
+          "login.microsoftonline.com"
+        ]
+      },
+      "visual_weights": {
+        "color_similarity": 0.25,
+        "logo_detection": 0.35,
+        "ui_layout": 0.25,
+        "text_content": 0.15
+      }
+    },
+    "amazon": {
+      "primary_colors": [
+        [
+          35,
+          47,
+          62
+        ],
+        [
+          255,
+          153,
+          0
+        ],
+        [
+          132,
+          189,
+          0
+        ]
+      ],
+      "legitimate_patterns": {
+        "domains": [
+          "amazon.com",
+          "amazon.co.uk",
+          "aws.amazon.com"
+        ]
+      },
+      "visual_weights": {
+        "color_similarity": 0.35,
+        "logo_detection": 0.3,
+        "ui_layout": 0.2,
+        "text_content": 0.15
+      }
+    },
+    "google": {
+      "primary_colors": [
+        [
+          66,
+          133,
+          244
+        ],
+        [
+          234,
+          67,
+          53
+        ],
+        [
+          251,
+          188,
+          5
+        ],
+        [
+          52,
+          168,
+          83
+        ]
+      ],
+      "legitimate_patterns": {
+        "domains": [
+          "google.com",
+          "gmail.com",
+          "accounts.google.com"
+        ]
+      },
+      "visual_weights": {
+        "color_similarity": 0.3,
+        "logo_detection": 0.4,
+        "ui_layout": 0.2,
+        "text_content": 0.1
+      }
+    }
+  }
+}
