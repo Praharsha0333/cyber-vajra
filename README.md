@@ -1,4 +1,4 @@
-# CyberVajra – AI-Powered Security Analyzer
+# CyberVajra(App) — “Built in India, for the World”
 CyberVajra is a proactive Indian-made cybersecurity app designed to detect and classify malicious websites and mobile applications. It combines a modern Flutter frontend with a sophisticated Python backend to provide real-time, user-friendly security analysis.
 
 This repository contains the complete source code for the CyberVajra project.
